@@ -1,0 +1,2 @@
+audio = true
+run = "bash .Code/Startup.sh"
